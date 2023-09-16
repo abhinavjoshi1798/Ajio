@@ -1,7 +1,7 @@
 ## About
 AJIO, a fashion and lifestyle brand, is Reliance Retail's digital commerce initiative and is the ultimate fashion destination for styles that are handpicked, on trend and at prices that are the best you'll find anywhere.
 
-Deployed Link :- frontend-eight-khaki-47.vercel.app/
+Deployed Link :- https://frontend-eight-khaki-47.vercel.app/
 <br/>
 Video Explaination :- https://youtu.be/CQd8SQxaXXQ?si=K-TMlMos0Fithzf1 
 <br/>
